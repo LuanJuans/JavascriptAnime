@@ -18,5 +18,5 @@ function undo(){
 
     imageDiv.style.backgroundImage = "url('')";
 
-    imageDiv.innerHTML = "Hover over an image below to display here.";
+    imageDiv.innerHTML = "https://github.com/LuanJuans";
 }
